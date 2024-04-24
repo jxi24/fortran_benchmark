@@ -1,0 +1,2 @@
+include_directories ("${CMAKE_INSTALL_PREFIX}/include/fortran_benchmark")
+link_directories ("${CMAKE_INSTALL_PREFIX}/lib")
